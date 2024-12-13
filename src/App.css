@@ -1,0 +1,641 @@
+.aboutUsImg {
+  position: absolute;
+  top: 1000px;
+  left: 10px;
+}
+.about {
+  font-size: 48px;
+  font-weight: 500;
+  font-family: rubik;
+  position: absolute;
+  top: 859px;
+  left: 900px;
+}
+.aboutline {
+  position: relative;
+  width: 238px;
+  top: 940px;
+  left: 895px;
+}
+
+.rectboxAbout {
+  position: absolute;
+  height: 3px;
+  width: 156px;
+  top: 939.5px;
+  left: 895px;
+  border-radius: 4px;
+  background-color: #a9a9a9;
+}
+
+.textAbout {
+  position: absolute;
+  top: 970px;
+  left: 887px;
+  font-family: rubik;
+}
+
+.enagagement {
+  position: absolute;
+  top: 1109px;
+  left: 887px;
+  font-family: rubik;
+}
+
+.coomunication {
+  position: absolute;
+  top: 1109px;
+  left: 1207px;
+  font-family: rubik;
+}
+
+.engHead {
+  position: absolute;
+  top: 1169px;
+  left: 887px;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: rubik;
+}
+
+.comHead {
+  position: absolute;
+  top: 1169px;
+  left: 1207px;
+  font-size: 24px;
+  font-family: rubik;
+  font-weight: 500;
+}
+.enagagementText {
+  position: absolute;
+  top: 1209px;
+  left: 887px;
+  font-size: 18px;
+  font-family: rubik;
+  font-weight: 400;
+}
+.coomunicationText {
+  position: absolute;
+  top: 1209px;
+  left: 1207px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: rubik;
+}
+
+.asset5 {
+  position: absolute;
+  width: 366px;
+  height: 431px;
+  top: 1468px;
+  left: -52px;
+}
+
+.serviceHead {
+  position: absolute;
+  font-weight: 500;
+  font-size: 48px;
+  width: 233px;
+  height: 57px;
+  top: 1580px;
+  left: 684px;
+  font-family: rubik;
+}
+
+.service {
+  position: absolute;
+  width: 208px;
+  top: 1654px;
+  left: 684px;
+}
+
+.rectboxService {
+  position: absolute;
+  height: 7px;
+  width: 62px;
+  top: 1651px;
+  left: 684px;
+  border-radius: 4px;
+  background-color: gray;
+}
+
+.serHead {
+  position: absolute;
+  width: 290px;
+  height: 50px;
+  top: 1746px;
+  left: 459px;
+  font-family: Rubik;
+  font-size: 42px;
+  font-weight: 500;
+}
+
+.sertext {
+  position: absolute;
+  width: 523px;
+  height: 126px;
+  top: 1816px;
+  left: 220px;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23.6px;
+  text-align: right;
+}
+
+.SerEngImg {
+  position: absolute;
+  width: 454px;
+  height: 375px;
+  top: 1694px;
+  left: 902px;
+}
+
+.commuHead {
+  position: absolute;
+  width: 478px;
+  height: 50px;
+  top: 2210px;
+  left: 918px;
+  font-family: Rubik;
+  font-size: 42px;
+  font-weight: 500;
+}
+
+.commutext {
+  position: absolute;
+  width: 478px;
+  height: 111px;
+  top: 2280px;
+  left: 918px;
+  font-family: Rubik;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.commuImg {
+  position: absolute;
+  width: 487px;
+  height: 251px;
+  top: 2147px;
+  left: 261px;
+}
+
+.assets6 {
+  position: absolute;
+  width: 230px;
+  height: 320px;
+  top: 2230px;
+  left: 1280px;
+}
+
+.faciHead {
+  position: absolute;
+  width: 279px;
+  height: 50px;
+  top: 2534px;
+  left: 415px;
+  font-family: Rubik;
+  font-size: 42px;
+  font-weight: 500;
+}
+
+.facitext {
+  position: absolute;
+  width: 521px;
+  height: 139px;
+  top: 2604px;
+  left: 173px;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: right;
+}
+
+.faciImg {
+  position: absolute;
+  width: 481px;
+  height: 386px;
+  top: 2464px;
+  left: 852px;
+}
+
+.assets7 {
+  position: absolute;
+  width: 259px;
+  height: 471px;
+  top: 2633px;
+  left: -52px;
+}
+
+.consHead {
+  position: absolute;
+  width: 407px;
+  height: 100px;
+  top: 3006px;
+  left: 926px;
+  font-family: Rubik;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 49.77px;
+}
+
+.constext {
+  position: absolute;
+  width: 454px;
+  height: 114px;
+  top: 3126px;
+  left: 926px;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.consImg {
+  position: absolute;
+  width: 523px;
+  height: 363px;
+  top: 2886px;
+  left: 220px;
+}
+
+.assets8 {
+  position: absolute;
+  width: 306px;
+  height: 411px;
+  top: 3101px;
+  /* left: 119px; */
+  right: 0px;
+}
+
+.trainHead {
+  position: absolute;
+  width: 508px;
+  height: 50px;
+  top: 3428px;
+  left: 244px;
+  font-family: Rubik;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 49.77px;
+  text-align: left;
+}
+
+.traintext {
+  position: absolute;
+  width: 520px;
+  height: 133px;
+  top: 3498px;
+  left: 222px;
+  font-family: Rubik;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: right;
+}
+
+.trainImg {
+  position: absolute;
+  width: 454px;
+  height: 349px;
+  top: 3400px;
+  left: 926px;
+}
+
+.assets5 {
+  position: absolute;
+  width: 366px;
+  height: 431px;
+  top: 3624px;
+}
+
+.team {
+  position: absolute;
+  font-family: Rubik;
+  font-size: 48px;
+  font-weight: 500;
+  text-align: left;
+  width: 341px;
+  height: 57px;
+  top: 3840px;
+  left: 685px;
+}
+
+.teamline {
+  position: absolute;
+  width: 250px;
+  height: 1px;
+  top: 3909px;
+  left: 684px;
+  background: gray;
+}
+.teambox {
+  position: absolute;
+  width: 101px;
+  height: 7px;
+  top: 3906px;
+  left: 683px;
+  border-radius: 4px;
+  background: gray;
+}
+
+.p1 {
+  position: absolute;
+  width: 278px;
+  height: 221px;
+  top: 3936px;
+  left: 244px;
+}
+.p1name {
+  position: absolute;
+  width: 165px;
+  height: 28px;
+  top: 4210px;
+  left: 300px;
+  font-family: Rubik;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+}
+.p2 {
+  position: absolute;
+  width: 278px;
+  height: 221px;
+  top: 3937px;
+  left: 661px;
+}
+.p2name {
+  position: absolute;
+  width: 152px;
+  height: 26px;
+  top: 4211px;
+  left: 724px;
+  font-family: Rubik;
+  font-size: 22px;
+  font-weight: 400;
+  text-align: left;
+}
+.p3 {
+  position: absolute;
+  width: 276px;
+  height: 221px;
+  top: 3937px;
+  left: 1078px;
+}
+.p3name {
+  position: absolute;
+  width: 88px;
+  height: 26px;
+  top: 4211px;
+  left: 1172px;
+  font-family: Rubik;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26.07px;
+  text-align: left;
+}
+
+.projectHead {
+  position: absolute;
+  width: 362px;
+  height: 57px;
+  top: 4356px;
+  left: 674px;
+  font-family: Rubik;
+  font-size: 48px;
+  font-weight: 500;
+  text-align: left;
+}
+
+.projectLine {
+  position: absolute;
+  width: 362px;
+  height: 0px;
+  top: 4427px;
+  left: 674px;
+  color: gray;
+}
+.projectBox {
+  position: absolute;
+  width: 103px;
+  height: 7px;
+  top: 4425px;
+  left: 674px;
+  border-radius: 4px;
+  background: gray;
+}
+.Assets8l {
+  position: absolute;
+  width: 300px;
+  height: 426px;
+  top: 4147px;
+  right: 0px;
+}
+
+.project1 {
+  position: absolute;
+  width: 554px;
+  height: 667px;
+  top: 4447px;
+  left: 235px;
+}
+.project2 {
+  position: absolute;
+  width: 554px;
+  height: 322px;
+  top: 4447px;
+  left: 811px;
+}
+.project3 {
+  position: absolute;
+  width: 554px;
+  height: 323px;
+  top: 4791px;
+  left: 811px;
+}
+
+.client {
+  position: absolute;
+  font-family: Rubik;
+  font-size: 48px;
+  font-weight: 500;
+  text-align: left;
+  width: 310px;
+  height: 57px;
+  top: 5242px;
+  left: 645px;
+}
+.clientLine {
+  position: absolute;
+  width: 310px;
+  height: 0px;
+  top: 5319px;
+  left: 645px;
+  background: gray;
+}
+.clientBox {
+  position: absolute;
+  width: 104px;
+  height: 7px;
+  top: 5316px;
+  left: 645px;
+  border-radius: 4px;
+  background: gray;
+}
+
+.assets9 {
+  position: relative;
+  width: 179px;
+  height: 404px;
+  top: 5176px;
+  left: 0px;
+}
+
+.L19 {
+  position: absolute;
+  width: 212px;
+  height: 161px;
+  top: 5348px;
+  left: 233px;
+}
+.L20 {
+  position: absolute;
+  width: 129px;
+  height: 131px;
+  top: 5363px;
+  left: 460px;
+}
+.L21 {
+  position: absolute;
+  width: 185px;
+  height: 106px;
+  top: 5581px;
+  left: 233px;
+}
+.L22 {
+  position: absolute;
+  width: 143px;
+  height: 107px;
+  top: 5375px;
+  left: 952px;
+}
+.L23 {
+  position: absolute;
+  width: 268px;
+  height: 120px;
+  top: 5574px;
+  left: 475px;
+}
+.L24 {
+  position: absolute;
+  width: 246px;
+  height: 99px;
+  top: 5584px;
+  left: 799px;
+}
+.water {
+  position: absolute;
+  width: 243px;
+  height: 58px;
+  top: 5605px;
+  left: 1102px;
+}
+.bhp {
+  position: absolute;
+  width: 163px;
+  height: 63px;
+  top: 5397px;
+  left: 1182px;
+}
+.brig {
+  position: absolute;
+  width: 222px;
+  height: 62px;
+  top: 5398px;
+  left: 667px;
+}
+
+.footer {
+  position: absolute;
+  width: 1340px;
+  height: 208px;
+  top: 5769px;
+  left: 130px;
+  background: rgb(139, 176, 229);
+  
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+  padding-top:40px;
+  font-weight: 800;
+}
+
+.fac{
+  font-weight: 200;
+}
+.facimg{
+  position: relative;
+  top: 20px;
+  right:30px;
+}
+.lin{
+ 
+  font-weight: 200;
+}
+.linimg{
+  position: relative;
+  top: 19px;
+  right: 30px;
+}
+.gog{
+ 
+  font-weight: 200;
+}
+.gogimg{
+  position: relative;
+  top: 20px;
+  right: 30px;
+}
+.ser{
+  padding-top: 10px;
+  font-weight: 200;
+}
+.tem{
+  padding-top: 10px;
+  font-weight: 200;
+}
+.cli{
+  padding-top: 10px;
+  font-weight: 200;
+}
+.lor{
+  padding-top: 10px;
+  font-weight: 200;
+}
+.use{
+  padding-top: 10px;
+  font-weight: 200;
+}
+.num{
+  padding-top: 10px;
+  font-weight: 200;
+}
+.email{
+  padding-top: 10px;
+  font-weight: 200;
+}
+
+.copyrights{
+  position:absolute;
+  font-family: Rubik;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.59px;
+
+width: 346px;
+height: 17px;
+top: 5999px;
+left: 627px;
+padding-bottom: 30px;
+}
