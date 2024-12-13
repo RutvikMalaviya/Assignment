@@ -16,7 +16,7 @@ function HomePage() {
                 href="#About us"
                 className="text-gray-600 hover:text-gray-900 font-rubik "
               >
-                <button>About us</button>
+                About us
               </a>
               <a href="#Service" className="text-gray-600 hover:text-gray-900 font-rubik ">
                 Service
