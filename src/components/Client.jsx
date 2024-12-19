@@ -3,7 +3,7 @@ import React from 'react'
 function Client() {
   return (
     <div className="sixth">
-        <text className="absolute text-5xl font-medium text-left w-[310px] h-[57px] left-[645px] top-[5242px] font-rubik ">OUR CLIENTS</text>
+        <text className="absolute text-5xl font-medium text-left w-[330px] h-[57px] left-[645px] top-[5242px] font-rubik ">OUR CLIENTS</text>
         <hr className="absolute w-[310px] h-0 left-[645px] top-[5319px] bg-gray-400" />
         <rectbox className='absolute w-[104px] h-[7px] rounded left-[645px] top-[5316px] bg-gray-400'></rectbox>
         <img className="relative w-[179px] h-[404px] left-0 top-[5176px]" src="src\assets\Assets 9.png" alt=""/>
