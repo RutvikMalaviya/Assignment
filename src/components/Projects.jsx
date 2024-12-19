@@ -4,7 +4,7 @@ function Projects() {
   return (
     <div className="fifth">
         
-        <text className="absolute w-[362px] h-[57px] text-5xl font-medium text-left left-[674px] top-[4356px] font-rubik ">
+        <text className="absolute w-[382px] h-[57px] text-5xl font-medium text-left left-[674px] top-[4356px] font-rubik ">
         OUR PROJECTS
         </text>
         <hr className="absolute w-[362px] h-0 text-[gray] left-[674px] top-[4427px]" />
